@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SignUpAndLoginUsingConstraintLayout</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your Email</string>
+</resources>
