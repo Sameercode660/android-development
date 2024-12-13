@@ -1,0 +1,63 @@
+# Ignore all build and generated files in all subfolders
+**/build/
+**/.idea/
+**/*.iml
+**/.gradle/
+
+# Ignore local properties files (specific to Android projects)
+**/local.properties
+
+# Ignore APKs and ProGuard files
+**/*.apk
+**/*.ap_
+**/*.mapping
+**/*.log
+
+# Ignore keystore files
+**/*.jks
+**/*.keystore
+
+# Ignore IntelliJ and Android Studio files
+**/*.ipr
+**/*.iws
+**/*.idea/
+
+# Ignore temporary files
+**/.DS_Store
+**/*.swp
+**/*.swo
+**/*~
+**/Thumbs.db
+
+# Ignore NDK-specific generated files
+**/*.so
+**/*.d
+**/*.o
+**/*.obj
+
+# Ignore lint generated files
+**/lint/intermediates/
+**/lint/generated/
+**/lint/reports/
+
+# Ignore captures and other outputs
+**/captures/
+**/outputs/
+
+# Ignore Kotlin metadata files
+**/*.kotlin_metadata
+
+# Ignore Crashlytics and Firebase files
+**/fabric.properties
+**/crashlytics.properties
+
+# Ignore logs
+**/*.log
+
+# Node-related files (if React Native or Node.js is used)
+**/node_modules/
+**/yarn-error.log
+
+# Ignore environment configuration files
+**/.env
+**/.env.local
