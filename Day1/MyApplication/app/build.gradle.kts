@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.constraintlayout"
-    compileSdk = 35
+    namespace = "com.example.myapplication"
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.constraintlayout"
+        applicationId = "com.example.myapplication"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
